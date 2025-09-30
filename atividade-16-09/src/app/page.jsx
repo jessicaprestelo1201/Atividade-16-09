@@ -7,7 +7,7 @@ export default function Home() {
 <nav>
   <Link href="/get">GET</Link>
   <Link href="/post">POST</Link>
-  <Link href="/put">PUT</Link>
+  <Link href="/update">PUT</Link>
   <Link href="/delete">DELETE</Link>
 </nav>
     </div>
